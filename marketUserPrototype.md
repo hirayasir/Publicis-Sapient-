@@ -1,17 +1,17 @@
-Market, Users, Prototype
-Understand Your Market
+Market, Users, Prototype Understand Your Market
 
 
 3 websites explored
 
-Briefly explain why these websites are a relevant comparison
+these websites are a relevant comparison
 
-List at least 10 product features
+
 
     https://www.airbnb.com/
     https://www.vrbo.com/
     https://www.homestay.com/
-
+    
+ 10 product features
     A user can filter results by various criteria from the homepage (such as cabins, mansions, boats, great views, etc).
     A user can toggle a switch to include all fees (before taxes) in the listing price
     A user can enter the number of people they intend to travel with, adults and children (ages 0-17) are counted separately.
@@ -25,18 +25,14 @@ List at least 10 product features
 
 Understand Your Users
 
-Write a short paragraph (50-100 words) describing the themes that emerged from the user research
+the user research
 
 The user research indicates that the website is effective if the user already has an idea of where they want to travel, but it's not ideal for getting ideas on where to go for a vacation based on the user's interests. Users also find it cumbersome to have to click onto a new page to preview each destination rather than preview multiple destinations at once. Additionally, users found the map overwhelming because it showed too many listings at once and cumbersome because you could only filter the map by location and not by category such as beach destinations.
 Define and Prototype
 
-Paste a link to your prototype here
+ link to your prototype here
 
-    🗒️ NOTE: Make sure you share your prototype file so that "anyone with the link" can view it. If we're unable to access your file, we'll be unable to give you credit.
-
-Don't forget to include a comment if you attempted any of the LevelUps, so that your grader knows to review your work and award the extra credit!
-
-https://docs.google.com/presentation/d/1gbzq1mr5CErww5F326hfyfN_huB6fxdB2GrZpQo3EbM/edit?usp=sharing
+https://docs.google.com/presentation/d/1ObEzGuyUHsbWDURUAMER4VWuFwDBk8r2WCUmDQiy1QI/edit?usp=sharing
 
 "Project Summary: Marriott Homes and Villas with Publicis Sapient
 
