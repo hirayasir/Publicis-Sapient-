@@ -1,7 +1,8 @@
 Market, Users, Prototype
 Understand Your Market
 
-Provide links to the 3 websites you explored
+
+3 websites explored
 
 Briefly explain why these websites are a relevant comparison
 
@@ -36,3 +37,13 @@ Paste a link to your prototype here
 Don't forget to include a comment if you attempted any of the LevelUps, so that your grader knows to review your work and award the extra credit!
 
 https://docs.google.com/presentation/d/1gbzq1mr5CErww5F326hfyfN_huB6fxdB2GrZpQo3EbM/edit?usp=sharing
+
+"Project Summary: Marriott Homes and Villas with Publicis Sapient
+
+Client: Marriott Homes and Villas
+Partner: Publicis Sapient
+Project Focus: Market Analysis, User Experience, Prototype Development
+
+Marriott, a global hospitality leader, sought to counter the rise of home-sharing apps amid the pandemic. Collaborating with Publicis Sapient, they aimed to enhance customer experience and retain their loyal clientele within their ecosystem.
+
+Publicis Sapient spearheaded the creation of Marriott's 'Homes and Villas' web app, providing a competitive edge against disruptors like Airbnb. As part of the global tech accelerator program, I contributed to crafting an end-to-end customer journey, ensuring Marriott's relevance in the evolving market landscape."
